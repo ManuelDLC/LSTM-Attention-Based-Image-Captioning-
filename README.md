@@ -1,7 +1,7 @@
 # LSTM-Attention-Based-Image-Captioning-
 
 ## Sample Outputs
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e7b9f6d8-b977-4bae-b293-e790c6634f7a" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e7b9f6d8-b977-4bae-b293-e790c6634f7a" />
 <img width="180" height="193" alt="image" src="https://github.com/user-attachments/assets/50f9895e-6fde-4587-a76d-c2e890ed22df" />
 <img width="180" height="193" alt="image" src="https://github.com/user-attachments/assets/96b4aed7-bbb7-42fd-8ce0-827e46ebb885" />
 

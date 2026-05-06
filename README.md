@@ -1,4 +1,4 @@
-# LSTM-Attention-Based-Image-Captioning-
+# LSTM-Attention-Based-Image-Captioning
 
 ## Sample Outputs
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e7b9f6d8-b977-4bae-b293-e790c6634f7a" />

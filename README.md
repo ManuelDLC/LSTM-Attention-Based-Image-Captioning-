@@ -1,5 +1,10 @@
 # LSTM-Attention-Based-Image-Captioning-
 
+## Sample Outputs
+<img width="426" height="490" alt="image" src="https://github.com/user-attachments/assets/8b219d27-7679-428c-a64d-5d4fc56612e9" />
+<img width="205" height="147" alt="image" src="https://github.com/user-attachments/assets/50f9895e-6fde-4587-a76d-c2e890ed22df" />
+<img width="188" height="150" alt="image" src="https://github.com/user-attachments/assets/96b4aed7-bbb7-42fd-8ce0-827e46ebb885" />
+
 ML Project - Image Captioning with Attention-based LSTM Decoder
 
 How to Run

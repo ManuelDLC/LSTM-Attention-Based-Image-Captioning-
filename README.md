@@ -5,7 +5,7 @@
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/50f9895e-6fde-4587-a76d-c2e890ed22df" />
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/96b4aed7-bbb7-42fd-8ce0-827e46ebb885" />
 
-ML Project - Image Captioning with Attention-based LSTM Decoder
+## ML Project - Image Captioning with Attention-based LSTM Decoder
 
 How to Run
 1. Open the file in Google Colab

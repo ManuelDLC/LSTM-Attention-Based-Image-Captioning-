@@ -42,3 +42,10 @@ The notebook will do the following automatically:
 
 All dependencies install automatically in Google Colab.
 
+## References
+
+- Xu et al., ["Show, Attend and Tell"](https://arxiv.org/abs/1502.03044) — ICML 2015
+- Vinyals et al., ["Show and Tell"](https://arxiv.org/abs/1411.4555) — CVPR 2015  
+- He et al., ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385) — CVPR 2016
+- Hodosh et al., Flickr8k Dataset (2013)
+
